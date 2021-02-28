@@ -2,9 +2,9 @@
 using System.Linq;
 using Delivery.Entities.Register;
 using Delivery.Repository.DataAcess.Interfaces;
-using Delivery.Repository.Repositories.Interfaces;
+using Delivery.Repository.Repositories.Register.Interfaces;
 
-namespace Delivery.Repository.Repositories
+namespace Delivery.Repository.Register.Repositories
 {
     public class UserRepository : IUserRepository
     {

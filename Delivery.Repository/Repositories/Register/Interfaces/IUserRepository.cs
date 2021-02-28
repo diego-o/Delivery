@@ -2,7 +2,7 @@
 using System.Linq;
 using Delivery.Entities.Register;
 
-namespace Delivery.Repository.Repositories.Interfaces
+namespace Delivery.Repository.Repositories.Register.Interfaces
 {
     public interface IUserRepository
     {
